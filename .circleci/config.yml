@@ -14,6 +14,6 @@ jobs:
           command: "npm run test"
 
 workflows:
-  say-hello-workflow:
+  project-workflow:
     jobs:
       - test
